@@ -12,7 +12,7 @@
   - w : cambia simbolo dell'elemento selezionato
   - e : cambia colore dell'elemento selezionato
 
-*/-------------------------------------------
+-------------------------------------------*/
 
 
 void setup(){
